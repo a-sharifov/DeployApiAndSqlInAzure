@@ -38,11 +38,18 @@ This repository serves as an example demonstrating the deployment of a typical .
    - In the "Settings" section, select "Connection strings".
    - Copy the ADO.NET connection string or any other suitable connection type.
 
+3. **Set connection string**
+   - after the copy, you should set this connection string in `appsettings.json`
+     ```json
+     "ConnectionStrings": {
+       "AzureSql": "enter your connection string azure"
+     }
+     ```
+
 ### Step 3: Deploying API Project to Azure
 
 1. **Prepare your project:**
    - Ensure your API project is configured to work with the SQL Server database.
-   - Update the connection string in the `appsettings.json` file or any other appropriate location in your API project with the obtained connection string.
 
 2. **Deploy the project to Azure:**
    - Return to the Azure portal and select your Azure Web App resource.
