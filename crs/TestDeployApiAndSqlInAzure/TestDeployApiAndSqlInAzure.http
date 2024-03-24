@@ -1,0 +1,6 @@
+@TestDeployApiAndSqlInAzure_HostAddress = http://localhost:5120
+
+GET {{TestDeployApiAndSqlInAzure_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
