@@ -59,9 +59,7 @@ This repository serves as an example demonstrating the deployment of a typical .
 3. **Complete the deployment:**
    - Start the deployment process and wait for it to complete.
    - After successful deployment, your API project will be accessible via the URL of your Azure Web App.
-
-Now you can use your API deployed on Azure, utilizing Azure SQL Server as your database. If you encounter any issues or have questions, feel free to consult Azure documentation or the Azure developer community for additional assistance.
-
+   - 
 ---
 
 ## 🌟 Enjoyed my project?
