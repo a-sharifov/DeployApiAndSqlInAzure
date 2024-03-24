@@ -1,4 +1,4 @@
-# [TestDeployApiAndSqlInAzure](https://github.com/a-sharifov/DotNET.AlgorithmsAndDataStructures) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/a-sharifov/TestDeployApiAndSqlInAzure/blob/master/LICENSE)
+# [TestDeployApiAndSqlInAzure](https://github.com/a-sharifov/DotNET.AlgorithmsAndDataStructures) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/a-sharifov/DeployApiAndSqlInAzure/blob/master/LICENSE.txt)
 
 ## Overview
 
